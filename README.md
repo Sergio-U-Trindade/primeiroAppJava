@@ -1,12 +1,12 @@
-Descrição
-Este é um aplicativo Android simples que exibe a mensagem "Hello, World!" na tela. É um ponto de partida básico para quem está começando a desenvolver aplicativos Android e deseja entender o fluxo básico de criação e execução de um aplicativo simples.
+Este é um aplicativo Android simples que exibe a mensagem "Hello, World!" na tela. 
+É um ponto de partida básico para quem está começando a desenvolver aplicativos Android e deseja entender o fluxo básico de criação e execução de um aplicativo simples.
 
 Como Usar
 Clone este repositório em sua máquina local.
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Sergio-U-Ttindade/primeiroAppJava.git
 Abra o projeto no Android Studio.
 
 Certifique-se de ter o Android Studio instalado em sua máquina.
